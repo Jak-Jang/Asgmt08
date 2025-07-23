@@ -3,6 +3,7 @@
 기본 에셋, 강의 제공 에셋 사용
 
 [Velog 링크](https://velog.io/@jjg4211/posts)
+
 [영상 링크](https://www.youtube.com/watch?v=00XCBO1bAG8)
 
 
