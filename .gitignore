@@ -5,9 +5,4 @@
 /Intermediate/
 /Saved/
 
-/Content/*
-!/Content/Blueprints/
-!/Content/Maps/
-!/Content/Inputs/
-!/Content/DataTable/
-!/Content/Material/
+*.vsconfig
